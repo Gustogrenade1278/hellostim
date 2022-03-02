@@ -8,6 +8,5 @@ const About = () => {
         </div>
     )
 }
-import './about.css'
 
 export default About

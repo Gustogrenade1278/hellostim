@@ -8,6 +8,5 @@ const Header = () => {
         </div>
     )
 }
-import './header.css'
 
 export default Header

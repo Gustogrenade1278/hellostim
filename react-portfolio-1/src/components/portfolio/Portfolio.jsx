@@ -8,6 +8,5 @@ const Portfolio = () => {
         </div>
     )
 }
-import './portfolio.css'
 
 export default Portfolio

@@ -8,5 +8,4 @@ const Contact = () => {
         </div>
     )
 }
-import './contact.css'
 export default Contact

@@ -8,6 +8,5 @@ const Testimonials = () => {
         </div>
     )
 }
-import './testimonials.css'
 
 export default Testimonials

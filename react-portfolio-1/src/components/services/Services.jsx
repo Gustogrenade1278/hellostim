@@ -8,6 +8,5 @@ const Services = () => {
         </div>
     )
 }
-import './services.css'
 
 export default Services
