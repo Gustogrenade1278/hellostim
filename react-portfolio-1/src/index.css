@@ -37,7 +37,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/bg-texture.jpg);
+  /*background-image: url(../src/assets/bg-texture.jpg); */
 }
 
 /* ======= GENERAL STYLES ========= */
@@ -60,7 +60,6 @@ h1 {
 
 section {
   margin-top: 8rem;
-  height: 100vh;
 }
 section > h2,
 section > h5 {
@@ -70,7 +69,7 @@ section > h5 {
 
 section > h2 {
   color: var(--color-primary);
-  margin: 3rem;
+  margin: 0.1rem;
 }
 
 .text-light {

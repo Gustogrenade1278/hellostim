@@ -35,7 +35,7 @@
     gap: 1.5rem;
 }
 
-.abou__card {
+.about__card {
     background: var(--color-bg-variant);
     border: 1px solid transparent;
     border-radius: 1rem;
